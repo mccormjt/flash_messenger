@@ -1,3 +1,2 @@
-Rails.application.routes.draw do
-  root to: 'index#index'
+FlashMessenger::Engine.routes.draw do
 end
